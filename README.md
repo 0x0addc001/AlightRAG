@@ -1,6 +1,6 @@
 # AlightRAG: Associations Light Your Path to the Answer
-## 1. Code
-### 1.1. https://github.com/0x0addc001/AlightRAG
+## 1. Method
+### ![Method](/method.jpg)
 ## 2. Usage
 ### 2.1. modify .env: use your api key for llm and embedding
 ### 2.2. modify your book.txt
